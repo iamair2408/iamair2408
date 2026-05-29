@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/stars/iamair248?affiliations=OWNER&style=for-the-badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=iamair248&style=for-the-badge" />
-</p>---
+</p>
 
 🚀 About Me
 
@@ -45,7 +45,7 @@ Media Downloader
 </td>
 </tr>
 </table>
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 ### Languages
 
@@ -83,7 +83,7 @@ Media Downloader
   <a href="https://t.me/PawDevs">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-</p>---
+</p>
 
 <div align="center">🐾 Building the future, one Pawject at a time.
 
