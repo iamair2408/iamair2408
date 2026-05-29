@@ -45,7 +45,6 @@ Media Downloader
 </td>
 </tr>
 </table>
-### 💻 Tech Stack
 
 ### Languages
 
