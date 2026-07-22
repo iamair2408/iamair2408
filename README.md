@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineer+%7C+Developer+%7C+Student;Manager+at+PawDevs;Building+Open+Source+Projects;Passionate+about+Telegram+Bots+and+Web+Apps" alt="Typing SVG" />
 </p><p align="center">
-  <a href="https://github.com/iamair248">
-    <img src="https://img.shields.io/github/followers/iamair248?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/iamair2408">
+    <img src="https://img.shields.io/github/followers/iamair2408?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/iamair248">
-    <img src="https://img.shields.io/github/stars/iamair248?affiliations=OWNER&style=for-the-badge" />
+  <a href="https://github.com/iamair2408">
+    <img src="https://img.shields.io/github/stars/iamair2408?affiliations=OWNER&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=iamair248&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=iamair2408&style=for-the-badge" />
 </p>
 
 🚀 About Me
@@ -76,10 +76,10 @@ Media Downloader
 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/iamair248">
+  <a href="https://github.com/iamair2408">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://t.me/PawDevs">
+  <a href="https://t.me/PawDevGirl">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
