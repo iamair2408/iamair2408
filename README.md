@@ -1,14 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm AIR!
-
-<p align="center">
-  <a href="https://github.com/iamair2408">
-    <img src="https://img.shields.io/github/followers/iamair2408?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/iamair2408">
-    <img src="https://img.shields.io/github/stars/iamair2408?affiliations=OWNER&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=iamair2408&style=for-the-badge" />
-</p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm aire!
 
 🚀 About Me
 
@@ -20,25 +10,6 @@
 - 🤝 Open to collaborations and community projects
 
 ---
-
-🐾 PawDevs Ecosystem
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/PawGram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><br>
-Instagram Alpha Fork
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/PawTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
-YouTube Experience
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pawtify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"><br>
-Music Platform
-</td>
-</tr>
-</table>
 
 ### Languages
 
@@ -53,7 +24,6 @@ Music Platform
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
@@ -68,6 +38,6 @@ Music Platform
   </a>
 </p>
 
-<div align="center">🐾 Building the future, one Pawject at a time.
+<div align="center"> crafting tech with (@pawjects)[https://github.com/pawjects]
 
 </div>
