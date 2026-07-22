@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm AIR!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineer+%7C+Developer+%7C+Student;Manager+at+PawDevs;Building+Open+Source+Projects;Passionate+about+Telegram+Bots+and+Web+Apps" alt="Typing SVG" />
-</p><p align="center">
   <a href="https://github.com/iamair2408">
     <img src="https://img.shields.io/github/followers/iamair2408?label=Followers&style=for-the-badge" />
   </a>
@@ -14,7 +12,7 @@
 
 🚀 About Me
 
-- 🛠 Engineer, Developer & Student
+- 🛠 Developer & Student
 - 🐾 Manager at PawDevs
 - 💡 Building open-source tools and Telegram bots
 - 🌐 Passionate about Web Development
@@ -39,10 +37,6 @@ YouTube Experience
 <img src="https://img.shields.io/badge/Pawtify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"><br>
 Music Platform
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/PawDownloader-000000?style=for-the-badge&logo=telegram&logoColor=white"><br>
-Media Downloader
-</td>
 </tr>
 </table>
 
@@ -52,15 +46,6 @@ Media Downloader
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Tools & Platforms
@@ -68,7 +53,6 @@ Media Downloader
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
